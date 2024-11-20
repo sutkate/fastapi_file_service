@@ -1,12 +1,12 @@
 import aiofiles
-from config import base_dir
+from config import *
 from fastapi import UploadFile, HTTPException, Query
 import os
 
 
 async def save_file(service_name: str = Query(...), file: UploadFile = None):
     try:
-        service_dir = base_dir / service_name
+        service_dir = dir / service_name
         service_dir.mkdir(parents=True, exist_ok=True)
 
         file_path = service_dir / file.filename
@@ -20,7 +20,7 @@ async def save_file(service_name: str = Query(...), file: UploadFile = None):
 
 async def delete_file(service_name: str = Query(...)):
     try:
-        file_path = base_dir / service_name
+        file_path = dir / service_name
         if not file_path.exists():
             raise HTTPException(status_code=400, detail="Файл не найден") #если файл не найден
 
