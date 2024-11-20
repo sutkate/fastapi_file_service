@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe011590-7268-4369-a04c-28cda7d1fce6" name="Changes" comment="Created gitignore file">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="fe011590-7268-4369-a04c-28cda7d1fce6" name="Changes" comment="Created gitignore file&#10;Added .env file&#10;Added README.md file">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/services.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +120,7 @@
       <workItem from="1731383567546" duration="1068000" />
       <workItem from="1731515667829" duration="617000" />
       <workItem from="1732046652857" duration="3998000" />
-      <workItem from="1732102349705" duration="1878000" />
+      <workItem from="1732102349705" duration="4462000" />
     </task>
     <task id="LOCAL-00001" summary="Created gitignore file">
       <option name="closed" value="true" />
@@ -133,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731383576588</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created gitignore file&#10;Added .env file&#10;Added README.md file">
+      <option name="closed" value="true" />
+      <created>1732105132668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732105132668</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +146,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created gitignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created gitignore file" />
+    <MESSAGE value="Created gitignore file&#10;Added .env file&#10;Added README.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created gitignore file&#10;Added .env file&#10;Added README.md file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$routers.coverage" NAME="routers Coverage Results" MODIFIED="1731262449959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
