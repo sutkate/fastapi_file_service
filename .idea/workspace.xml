@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fe011590-7268-4369-a04c-28cda7d1fce6" name="Changes" comment="Created gitignore file&#10;Added .env file&#10;Added README.md file">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,7 @@
       <workItem from="1731383567546" duration="1068000" />
       <workItem from="1731515667829" duration="617000" />
       <workItem from="1732046652857" duration="3998000" />
-      <workItem from="1732102349705" duration="4462000" />
+      <workItem from="1732102349705" duration="4566000" />
     </task>
     <task id="LOCAL-00001" summary="Created gitignore file">
       <option name="closed" value="true" />
@@ -138,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732105132668</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created gitignore file&#10;Added .env file&#10;Added README.md file">
+      <option name="closed" value="true" />
+      <created>1732122956184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732122956184</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
